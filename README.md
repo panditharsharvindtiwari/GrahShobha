@@ -11,12 +11,12 @@ collections, explore products, and place orders directly via WhatsApp.
 
 [
 
-![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel)
+![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-blue)](https://grah-shobha.vercel.app)
 
 ](https://grah-shobha.vercel.app)
 [
 
-![Deploy Status](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+[![Deployed on Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-black)](https://vercel.com)
 
 ](https://vercel.com)
 
