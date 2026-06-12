@@ -7,9 +7,6 @@ Built with a cinematic dark aesthetic, the site allows customers to browse
 collections, explore products, and place orders directly via WhatsApp.
 
 ---
-# GrahShobha — Interiors & Furnishings
-
-
 
 ## Links
 
