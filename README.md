@@ -7,7 +7,20 @@ Built with a cinematic dark aesthetic, the site allows customers to browse
 collections, explore products, and place orders directly via WhatsApp.
 
 ---
+# GrahShobha — Interiors & Furnishings
 
+[
+
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel)
+
+](https://grahshobha-interiors.vercel.app)
+[
+
+![Deploy Status](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)
+
+](https://vercel.com)
+
+A modern showcase and catalogue website...
 ## Features
 
 - Product catalogue with category and room-based filtering
