@@ -9,16 +9,14 @@ collections, explore products, and place orders directly via WhatsApp.
 ---
 # GrahShobha — Interiors & Furnishings
 
-[
 
-![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-blue)](https://grah-shobha.vercel.app)
 
-](https://grah-shobha.vercel.app)
-[
+![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-blue)]
+(https://grah-shobha.vercel.app)
 
-[![Deployed on Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-black)](https://vercel.com)
 
-](https://vercel.com)
+[![Deployed on Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-black)](https://vercel.com)]
+(https://vercel.com)
 
 A modern showcase and catalogue website...
 ## Features
